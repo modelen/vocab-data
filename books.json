@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "the-pearl",
+      "title": "The Pearl",
+      "author": "John Steinbeck",
+      "coverImageName": "cover_the_pearl",
+      "description": "1947년 발표된 단편 소설. 멕시코 어부 키노가 거대한 진주를 발견하면서 가족과 마을이 변해가는 이야기. 약 30,000 단어 분량으로 영어 원서 입문용으로 적합합니다.",
+      "wordsFileName": "the-pearl-words",
+      "wordCount": 150,
+      "level": "intermediate"
+    }
+  ]
+}
