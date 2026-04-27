@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "bookId": "the-pearl",
+  "updatedAt": "2026-04-25",
+  "words": [
+    {
+      "id": "tp-001",
+      "word": "pearl",
+      "pos": "noun",
+      "pronunciation": "/pɜːrl/",
+      "meaning": "진주",
+      "example": "Kino found a great pearl in the oyster.",
+      "exampleKo": "키노는 굴 속에서 거대한 진주를 발견했다.",
+      "level": "beginner",
+      "topic": "object"
+    },
+    {
+      "id": "tp-002",
+      "word": "canoe",
+      "pos": "noun",
+      "pronunciation": "/kəˈnuː/",
+      "meaning": "카누 (작은 배)",
+      "example": "Kino paddled his canoe out to the deeper water.",
+      "exampleKo": "키노는 카누를 저어 더 깊은 바다로 나갔다.",
+      "level": "beginner",
+      "topic": "object"
+    },
+    {
+      "id": "tp-003",
+      "word": "scorpion",
+      "pos": "noun",
+      "pronunciation": "/ˈskɔːrpiən/",
+      "meaning": "전갈",
+      "example": "A scorpion crawled down the rope toward the baby.",
+      "exampleKo": "전갈이 밧줄을 타고 아기 쪽으로 기어 내려왔다.",
+      "level": "intermediate",
+      "topic": "animal"
+    },
+    {
+      "id": "tp-004",
+      "word": "oyster",
+      "pos": "noun",
+      "pronunciation": "/ˈɔɪstər/",
+      "meaning": "굴 (조개)",
+      "example": "He gathered oysters from the bottom of the gulf.",
+      "exampleKo": "그는 만 바닥에서 굴들을 모았다.",
+      "level": "intermediate",
+      "topic": "animal"
+    },
+    {
+      "id": "tp-005",
+      "word": "estuary",
+      "pos": "noun",
+      "pronunciation": "/ˈestʃueri/",
+      "meaning": "강어귀, 강이 바다와 만나는 곳",
+      "example": "The village stood by the estuary where the river met the sea.",
+      "exampleKo": "마을은 강이 바다와 만나는 강어귀에 자리잡고 있었다.",
+      "level": "advanced",
+      "topic": "place"
+    },
+    {
+      "id": "tp-006",
+      "word": "gulf",
+      "pos": "noun",
+      "pronunciation": "/ɡʌlf/",
+      "meaning": "만 (바다 일부가 육지로 들어간 곳)",
+      "example": "The Gulf of California glittered under the morning sun.",
+      "exampleKo": "캘리포니아 만이 아침 햇살 아래 반짝였다.",
+      "level": "intermediate",
+      "topic": "place"
+    },
+    {
+      "id": "tp-007",
+      "word": "brush",
+      "pos": "noun",
+      "pronunciation": "/brʌʃ/",
+      "meaning": "덤불, 잡목",
+      "example": "He hid in the brush to escape the trackers.",
+      "exampleKo": "그는 추격자들을 피해 덤불 속에 숨었다.",
+      "level": "intermediate",
+      "topic": "place"
+    },
+    {
+      "id": "tp-008",
+      "word": "tracker",
+      "pos": "noun",
+      "pronunciation": "/ˈtrækər/",
+      "meaning": "추적자, 자취를 따라가는 사람",
+      "example": "The trackers followed Kino's footprints into the mountains.",
+      "exampleKo": "추적자들은 산속까지 키노의 발자국을 쫓아갔다.",
+      "level": "intermediate",
+      "topic": "person"
+    },
+    {
+      "id": "tp-009",
+      "word": "doctor",
+      "pos": "noun",
+      "pronunciation": "/ˈdɑːktər/",
+      "meaning": "의사",
+      "example": "The doctor refused to see the poor baby.",
+      "exampleKo": "의사는 가난한 아기를 진료하기를 거부했다.",
+      "level": "beginner",
+      "topic": "person"
+    },
+    {
+      "id": "tp-010",
+      "word": "priest",
+      "pos": "noun",
+      "pronunciation": "/priːst/",
+      "meaning": "신부, 사제",
+      "example": "The priest came to bless the family and their fortune.",
+      "exampleKo": "신부는 가족과 그들의 행운을 축복하러 왔다.",
+      "level": "intermediate",
+      "topic": "person"
+    },
+    {
+      "id": "tp-011",
+      "word": "dawn",
+      "pos": "noun",
+      "pronunciation": "/dɔːn/",
+      "meaning": "새벽, 동틀 녘",
+      "example": "Kino awoke at dawn, before the sky turned gold.",
+      "exampleKo": "키노는 하늘이 황금빛으로 물들기 전, 새벽에 깨어났다.",
+      "level": "beginner",
+      "topic": "time"
+    },
+    {
+      "id": "tp-012",
+      "word": "hut",
+      "pos": "noun",
+      "pronunciation": "/hʌt/",
+      "meaning": "오두막",
+      "example": "Their small brush hut stood near the shore.",
+      "exampleKo": "그들의 작은 덤불 오두막은 해변 가까이에 있었다.",
+      "level": "beginner",
+      "topic": "place"
+    },
+    {
+      "id": "tp-013",
+      "word": "evil",
+      "pos": "noun",
+      "pronunciation": "/ˈiːvəl/",
+      "meaning": "악, 나쁜 것",
+      "example": "The pearl seemed to attract evil from every direction.",
+      "exampleKo": "그 진주는 사방에서 악을 끌어들이는 듯했다.",
+      "level": "intermediate",
+      "topic": "concept"
+    },
+    {
+      "id": "tp-014",
+      "word": "fortune",
+      "pos": "noun",
+      "pronunciation": "/ˈfɔːrtʃuːn/",
+      "meaning": "행운, 큰 재산",
+      "example": "The pearl was a fortune that could change his life.",
+      "exampleKo": "그 진주는 그의 삶을 바꿀 수 있는 큰 재산이었다.",
+      "level": "intermediate",
+      "topic": "concept"
+    },
+    {
+      "id": "tp-015",
+      "word": "greed",
+      "pos": "noun",
+      "pronunciation": "/ɡriːd/",
+      "meaning": "탐욕",
+      "example": "Greed turned neighbors into enemies overnight.",
+      "exampleKo": "탐욕은 하룻밤 사이에 이웃들을 적으로 바꿔놓았다.",
+      "level": "intermediate",
+      "topic": "concept"
+    },
+    {
+      "id": "tp-016",
+      "word": "paddle",
+      "pos": "verb",
+      "pronunciation": "/ˈpædl/",
+      "meaning": "(노로) 젓다",
+      "example": "Kino paddled silently toward the pearl beds.",
+      "exampleKo": "키노는 진주 채취장을 향해 조용히 노를 저었다.",
+      "level": "intermediate",
+      "topic": "action"
+    },
+    {
+      "id": "tp-017",
+      "word": "dive",
+      "pos": "verb",
+      "pronunciation": "/daɪv/",
+      "meaning": "(물속으로) 잠수하다, 뛰어들다",
+      "example": "He dove deep into the cool water to find oysters.",
+      "exampleKo": "그는 굴을 찾기 위해 차가운 물속으로 깊이 잠수했다.",
+      "level": "beginner",
+      "topic": "action"
+    },
+    {
+      "id": "tp-018",
+      "word": "whisper",
+      "pos": "verb",
+      "pronunciation": "/ˈwɪspər/",
+      "meaning": "속삭이다",
+      "example": "Juana whispered a prayer for her sick child.",
+      "exampleKo": "후아나는 아픈 아이를 위해 기도를 속삭였다.",
+      "level": "intermediate",
+      "topic": "action"
+    },
+    {
+      "id": "tp-019",
+      "word": "gleam",
+      "pos": "verb",
+      "pronunciation": "/ɡliːm/",
+      "meaning": "은은하게 빛나다",
+      "example": "The great pearl gleamed in his palm.",
+      "exampleKo": "거대한 진주가 그의 손바닥 위에서 은은하게 빛났다.",
+      "level": "advanced",
+      "topic": "action"
+    },
+    {
+      "id": "tp-020",
+      "word": "desolate",
+      "pos": "adjective",
+      "pronunciation": "/ˈdesələt/",
+      "meaning": "황량한, 적막한",
+      "example": "They walked through the desolate hills for days.",
+      "exampleKo": "그들은 며칠 동안 황량한 언덕길을 걸었다.",
+      "level": "advanced",
+      "topic": "description"
+    }
+  ]
+}
