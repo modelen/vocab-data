@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "books": [
     {
       "id": "the-pearl",
@@ -9,6 +9,16 @@
       "description": "1947년 발표된 단편 소설. 멕시코 어부 키노가 거대한 진주를 발견하면서 가족과 마을이 변해가는 이야기. 약 30,000 단어 분량으로 영어 원서 입문용으로 적합합니다.",
       "wordsFileName": "the-pearl-words",
       "wordCount": 150,
+      "level": "intermediate"
+    },
+    {
+      "id": "small-things-like-these",
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "coverImageName": "cover_small_things_like_these",
+      "description": "한국어판 제목 '이처럼 사소한 것들'. 2021년 아일랜드 작가 클레어 키건의 단편 소설로, 1985년 작은 도시의 석탄 상인 빌 펄롱이 마주한 도덕적 선택을 다룹니다. 약 30,000 단어 분량으로 간결하고 우아한 문체가 특징입니다.",
+      "wordsFileName": "small-things-like-these-words",
+      "wordCount": 300,
       "level": "intermediate"
     }
   ]
