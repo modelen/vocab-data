@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "books": [
     {
       "id": "the-pearl",
@@ -19,6 +19,16 @@
       "description": "한국어판 제목 '이처럼 사소한 것들'. 2021년 아일랜드 작가 클레어 키건의 단편 소설로, 1985년 작은 도시의 석탄 상인 빌 펄롱이 마주한 도덕적 선택을 다룹니다. 약 30,000 단어 분량으로 간결하고 우아한 문체가 특징입니다.",
       "wordsFileName": "small-things-like-these-words",
       "wordCount": 300,
+      "level": "intermediate"
+    },
+    {
+      "id": "to-kill-a-mockingbird",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "coverImageName": "cover_to_kill_a_mockingbird",
+      "description": "1960년 출간된 미국 현대문학의 고전. 1930년대 앨라배마의 작은 마을 메이콤에서 변호사 애티커스 핀치와 그의 어린 딸 스카웃의 시선으로, 인종 차별 재판과 어른들의 위선을 그립니다. 고등학교 영어 원서 추천 도서.",
+      "wordsFileName": "to-kill-a-mockingbird-words",
+      "wordCount": 200,
       "level": "intermediate"
     }
   ]
