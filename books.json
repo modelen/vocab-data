@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "books": [
     {
       "id": "the-pearl",
@@ -28,6 +28,16 @@
       "coverImageName": "cover_to_kill_a_mockingbird",
       "description": "1960년 출간된 미국 현대문학의 고전. 1930년대 앨라배마의 작은 마을 메이콤에서 변호사 애티커스 핀치와 그의 어린 딸 스카웃의 시선으로, 인종 차별 재판과 어른들의 위선을 그립니다. 고등학교 영어 원서 추천 도서.",
       "wordsFileName": "to-kill-a-mockingbird-words",
+      "wordCount": 200,
+      "level": "intermediate"
+    },
+    {
+      "id": "of-mice-and-men",
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "coverImageName": "cover_of_mice_and_men",
+      "description": "1937년 출간된 존 스타인벡의 단편 소설. 대공황기 캘리포니아 농장을 떠도는 두 친구 조지와 레니의 우정, 작은 농장을 갖고 싶다는 소박한 꿈, 그리고 비극으로 끝나는 이야기를 담았습니다. 약 30,000 단어 분량의 짧은 길이로 영어 원서 입문에 적합합니다.",
+      "wordsFileName": "of-mice-and-men-words",
       "wordCount": 200,
       "level": "intermediate"
     }
